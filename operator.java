@@ -4,7 +4,7 @@ public class operator {
         int b=15;
         int sum; //declaration
         int diff;
-        int product;
+        int product; // declaration
         int div;
         int modulo;
         sum= a+b; //initilazation
