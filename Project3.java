@@ -7,10 +7,10 @@ public class Project3 {
         System.out.println("please enter an integer");
         input = keyboard.nextInt();
         if(input%3==0){
-        System.out.println("divisible by 3");
+        System.out.println(input + "is divisible by 3");
         }
         else{
-            System.out.println("not divisible by 3");
+            System.out.println(input + " is not divisible by 3");
         }
     }
     
